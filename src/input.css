@@ -2,13 +2,10 @@
 
 @theme {
     --breakpoint-media: 500px;
-=======
+}
 @theme{
 --breakpoint-sm:500px
 }
-    
-=======
-
 @theme {
   --breakpoint-xs: 360px;
   --breakpoint-sm: 510px;
